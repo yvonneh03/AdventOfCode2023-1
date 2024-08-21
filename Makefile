@@ -1,3 +1,5 @@
+# makefile for AoC problems
+
 CXX = g++
 OPTIONS = -g -std=c++20
 
